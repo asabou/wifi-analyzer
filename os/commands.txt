@@ -1,0 +1,2 @@
+timeout 20s airodump-ng --beacons --channel 10 --bssid 0C:37:47:A9:3C:B6 --manufacturer --wps --output-format pcap --write-interval 20 --write capture wlp2s0mon
+pyuic5 -o ./ui/MainWindow.py ./ui/main_window.ui
